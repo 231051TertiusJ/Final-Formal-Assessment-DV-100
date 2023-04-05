@@ -61,6 +61,27 @@ header {
     margin-right: 5;
 }
 
+.overlay{
+    width: 250px;
+    height: 130px;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding-top: 80px;
+    opacity: 0;
+}
+.overlay:hover{
+    cursor: pointer;
+    opacity: 1;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+}
+.idontknow{
+    color: white;
+    text-align: center;
+}
+
 .destination{
     width: 90%;
     height: 130px;
@@ -74,20 +95,36 @@ header {
     background-position: center;
     background-size: cover;
 }
+.bora-image:hover{
+
+}
+
 .pyong-image{
     background-image: url("../assets/pyongyang.jpg");
     background-position: center;
     background-size: cover;
 }
+
+.pyong-image:hover{
+    
+}
+
 .miami-image{
     background-image: url("../assets/miami.jpg");
     background-position: center;
     background-size: cover;
 }
+.miami-image:hover{
+
+}
+
 .paris-image{
     background-image: url("../assets/paris.jpg");
     background-position: center;
     background-size: cover;
+}
+.paris-image:hover{
+
 }
 
 .textds{
