@@ -1,0 +1,196 @@
+nav {
+    width: 100%;
+    height: 80px;
+    background-color: #2b2b2b;
+    padding-top: 10px;
+}
+
+nav ul {
+    list-style: none;
+}
+
+.logo{
+    width: 200px;
+    float: left;
+    color: white;
+    margin-left: 50px;
+    margin-bottom: 90px;
+    font-family: 'Delicious Handrawn';
+}
+
+.nav-con{
+    width: 800px;
+    height: 50px;
+    margin-top: 5px;
+    color: white;
+    float: right;
+}
+
+.nav-con li{
+    width: 50%;   
+    float: left;
+}
+
+header {
+    width: 100%;
+    height: 840px;
+    margin-top: 100px;
+}
+
+.left{
+    width: 50%;
+    height: 840px;
+    float: left;
+}
+
+.right{
+    width: 50%;
+    height: 840px;
+    float: right;
+}
+
+.bk{
+    height: 100%;
+    height: 325px;
+    background-color: white;
+    float: left;
+    border: 1px lightgray solid;
+    border-radius: 5px;
+    padding-top: 5px;
+    margin-bottom: 20px;
+    margin-right: 5;
+}
+
+.destination{
+    width: 90%;
+    height: 130px;
+    background-color: aqua;
+    margin-left: 15px;
+    border-radius: 5px;
+}
+
+.bora-image{
+    background-image: url("../assets/bora-bora.jpg");
+    background-position: center;
+    background-size: cover;
+}
+.pyong-image{
+    background-image: url("../assets/pyongyang.jpg");
+    background-position: center;
+    background-size: cover;
+}
+.miami-image{
+    background-image: url("../assets/miami.jpg");
+    background-position: center;
+    background-size: cover;
+}
+.paris-image{
+    background-image: url("../assets/paris.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.textds{
+    text-align: center;
+}
+
+h3{
+    font-size: 30px;
+}
+
+h4, h3{
+    font-family: 'Bebas Neue';
+}
+
+.book-button{
+    width: 90%;
+    height: 35px;
+    background-color: #2b2b2b;
+    color: white;
+    text-align: center;
+    padding-top: 5px;
+    margin-left: 10px;
+    border: 2px #2b2b2b solid;
+    border-radius: 2px;
+    font-family: 'Delicious Handrawn';
+    font-weight: bold;
+}
+
+.book-button:hover{
+    background-color: white;
+    color: black;
+    border-color: lightgrey;
+}
+
+form{
+    width: 100%;
+    height: 840px;
+    background-color: white;
+    margin: 0 auto;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 200px;
+    padding-bottom: 40px;
+}
+.imput-elm{
+    background-color: lightgrey;
+    color: black;
+    border-radius: 25px;
+    float: right;
+    padding-top: 350px;
+}
+
+.input-elm{
+    width: 90%;
+    height: 35px;
+    border-radius: 5px;
+    padding-left: 15px;
+    margin-top: 15px;
+    border: none;
+    background-color: lightgrey;
+    color: black;
+
+}
+
+.play{
+    background-color: #2b2b2b;
+    color: white;
+    border: 2px #2b2b2b solid;
+    font-family: 'Delicious Handrawn';
+}
+
+.play:hover{
+    background-color: white;
+    color: black;
+    border-color: lightgrey;
+}
+
+select, button{
+    width: 95% !important;
+
+
+}
+
+.dream{
+    text-align: center;
+}
+
+.fill{
+    text-align: center;
+}
+
+footer{
+    width: 100%;
+    height: 50px;
+    background-color: #2b2b2b;
+    color: lightgrey;
+    margin-top: 100px;
+    text-align: center;
+    padding-top: 15px;
+}
+
+
+
+
+
+
